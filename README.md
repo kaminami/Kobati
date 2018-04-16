@@ -25,3 +25,9 @@ Metacello new
   repository: 'filetree://', pathToPackageDirectory;
   load.
 ```
+
+## Presentations
+- SQLマッピングフレームワーク「Kobati」のはなし (2015/2/27 )
+  - https://www.slideshare.net/kazukiminamitani/sqlkobati
+- SQLマッピングフレームワーク「Kobati」の実戦投入 (2017/12/26)
+  - https://www.slideshare.net/kazukiminamitani/sqlkobati-84977840

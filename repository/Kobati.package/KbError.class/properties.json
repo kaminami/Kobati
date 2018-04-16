@@ -1,0 +1,14 @@
+{
+	"category" : "Kobati-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KbError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

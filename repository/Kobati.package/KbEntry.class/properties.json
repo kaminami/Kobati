@@ -1,0 +1,19 @@
+{
+	"category" : "Kobati-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"title",
+		"contents",
+		"updated",
+		"tags",
+		"author" ],
+	"name" : "KbEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

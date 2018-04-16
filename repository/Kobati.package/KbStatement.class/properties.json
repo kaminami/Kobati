@@ -1,0 +1,19 @@
+{
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"statement",
+		"selector",
+		"arguments",
+		"flagments",
+		"resultMap" ],
+	"name" : "KbStatement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

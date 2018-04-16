@@ -1,0 +1,24 @@
+{
+	"category" : "Kobati-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"username",
+		"password",
+		"host",
+		"port",
+		"database",
+		"encoding",
+		"mappers",
+		"minConnections",
+		"maxConnections",
+		"waitTimeout",
+		"maxFreeConnections" ],
+	"name" : "KbConfig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

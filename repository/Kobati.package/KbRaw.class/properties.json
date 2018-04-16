@@ -1,0 +1,14 @@
+{
+	"category" : "Kobati-Mapping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "KbRaw",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

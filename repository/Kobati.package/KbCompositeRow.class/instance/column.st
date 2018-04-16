@@ -1,0 +1,3 @@
+accessing
+column
+	^ self property

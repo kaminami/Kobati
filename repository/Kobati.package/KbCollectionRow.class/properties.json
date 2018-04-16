@@ -1,0 +1,17 @@
+{
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"ofType",
+		"convertAs",
+		"converter" ],
+	"name" : "KbCollectionRow",
+	"pools" : [
+		 ],
+	"super" : "KbCompositeRow",
+	"type" : "normal" }

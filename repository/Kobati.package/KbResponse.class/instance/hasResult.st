@@ -1,0 +1,3 @@
+testing
+hasResult
+	^ resultSet ~= nil

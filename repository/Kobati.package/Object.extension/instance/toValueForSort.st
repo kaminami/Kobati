@@ -1,0 +1,3 @@
+*Kobati-utility
+toValueForSort
+	^ self

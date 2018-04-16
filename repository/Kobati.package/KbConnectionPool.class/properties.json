@@ -1,0 +1,14 @@
+{
+	"category" : "Kobati-Database",
+	"classinstvars" : [
+		"config" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KbConnectionPool",
+	"pools" : [
+		 ],
+	"super" : "PG3ConnectionPool",
+	"type" : "normal" }

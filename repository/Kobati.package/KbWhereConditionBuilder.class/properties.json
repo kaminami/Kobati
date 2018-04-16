@@ -1,0 +1,14 @@
+{
+	"category" : "Kobati-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expressions" ],
+	"name" : "KbWhereConditionBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

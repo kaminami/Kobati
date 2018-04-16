@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"build" : "minami 10/14/2014 23:10",
+		"build:" : "minami 10/14/2014 23:10",
+		"copyWithoutSession" : "kaminami 6/15/2017 14:11",
+		"deleteType" : "minami 10/14/2014 23:10",
+		"insertType" : "minami 10/14/2014 23:10",
+		"namespace" : "kaminami 3/6/2017 18:34",
+		"selectManyType" : "minami 10/14/2014 23:11",
+		"selectOneType" : "minami 10/14/2014 23:11",
+		"session" : "minami 10/19/2014 21:28",
+		"session:" : "minami 10/19/2014 21:28",
+		"sqlType" : "minami 10/14/2014 23:11",
+		"updateType" : "minami 10/14/2014 23:11" } }

@@ -1,0 +1,3 @@
+copying
+copyWithoutSession
+	self subclassResponsibility 

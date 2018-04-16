@@ -1,0 +1,20 @@
+{
+	"category" : "Kobati-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connection",
+		"sqlFlagments",
+		"bindInput",
+		"query",
+		"answer",
+		"response",
+		"dbAccessor" ],
+	"name" : "KbSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

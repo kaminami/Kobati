@@ -1,0 +1,15 @@
+{
+	"category" : "Kobati-Mapping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"resultMap",
+		"resultRow" ],
+	"name" : "KbMappingError",
+	"pools" : [
+		 ],
+	"super" : "KbError",
+	"type" : "normal" }

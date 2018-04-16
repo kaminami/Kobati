@@ -1,0 +1,14 @@
+{
+	"category" : "Kobati-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KbConverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

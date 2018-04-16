@@ -1,0 +1,3 @@
+testing
+isResultRow
+	^ true

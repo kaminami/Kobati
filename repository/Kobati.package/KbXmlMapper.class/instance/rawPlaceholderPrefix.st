@@ -1,0 +1,3 @@
+constants
+rawPlaceholderPrefix
+	^ KbConstants default rawPlaceholderPrefix

@@ -1,0 +1,3 @@
+query type
+updateType
+	^#update

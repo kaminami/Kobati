@@ -1,0 +1,3 @@
+query type
+deleteType
+	^ #delete

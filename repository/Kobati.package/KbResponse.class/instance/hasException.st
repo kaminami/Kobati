@@ -1,0 +1,3 @@
+testing
+hasException
+	^ exceptionResponse ~= nil

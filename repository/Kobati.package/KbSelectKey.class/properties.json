@@ -1,0 +1,16 @@
+{
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keyProperty",
+		"statement",
+		"order" ],
+	"name" : "KbSelectKey",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

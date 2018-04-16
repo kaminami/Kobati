@@ -1,0 +1,15 @@
+{
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"property",
+		"resultMap" ],
+	"name" : "KbCompositeRow",
+	"pools" : [
+		 ],
+	"super" : "KbResultMapRow",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfKobati",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfKobati",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+namespace
+	self subclassResponsibility

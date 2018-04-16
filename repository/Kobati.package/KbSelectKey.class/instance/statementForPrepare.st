@@ -1,0 +1,4 @@
+accessing
+statementForPrepare
+
+	^self statement

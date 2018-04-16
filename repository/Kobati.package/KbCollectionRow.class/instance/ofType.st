@@ -1,0 +1,4 @@
+accessing
+ofType
+	
+	^ ofType

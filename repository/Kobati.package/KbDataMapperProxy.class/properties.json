@@ -1,0 +1,14 @@
+{
+	"category" : "Kobati-Mapping",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mapper" ],
+	"name" : "KbDataMapperProxy",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

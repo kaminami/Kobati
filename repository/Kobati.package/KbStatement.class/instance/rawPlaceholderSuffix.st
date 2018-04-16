@@ -1,0 +1,3 @@
+constants
+rawPlaceholderSuffix
+	^ KbConstants default rawPlaceholderSuffix

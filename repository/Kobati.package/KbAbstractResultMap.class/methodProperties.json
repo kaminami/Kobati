@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"from:" : "minami 10/15/2014 01:06",
+		"type:" : "minami 10/15/2014 01:06" },
+	"instance" : {
+		"addResultRow:of:" : "minami 10/16/2014 11:29",
+		"at:" : "minami 10/15/2014 01:04",
+		"at:ifAbsent:" : "minami 10/15/2014 01:04",
+		"at:ifAbsentPut:" : "minami 10/15/2014 01:04",
+		"at:put:" : "minami 10/15/2014 01:04",
+		"build:" : "minami 10/15/2014 00:24",
+		"idRows" : "kaminami 9/14/2017 16:52",
+		"isReference" : "minami 10/15/2014 00:24",
+		"resolveResultMapReferenceUsing:" : "minami 10/15/2014 01:06",
+		"rows" : "minami 10/15/2014 00:24",
+		"rowsDo:" : "minami 10/31/2014 04:04",
+		"type" : "minami 10/15/2014 00:24",
+		"type:" : "minami 10/15/2014 00:24" } }

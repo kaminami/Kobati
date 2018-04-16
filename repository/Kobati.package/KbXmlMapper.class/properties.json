@@ -1,0 +1,18 @@
+{
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"namespace",
+		"statements",
+		"references",
+		"resultMaps",
+		"methods" ],
+	"name" : "KbXmlMapper",
+	"pools" : [
+		 ],
+	"super" : "KbDataMapper",
+	"type" : "normal" }

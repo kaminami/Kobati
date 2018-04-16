@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"xpathAny:" : "minami 10/13/2014 19:15",
+		"xpathAny:ifNone:" : "minami 10/13/2014 19:15",
+		"xpathLocate:" : "minami 10/13/2014 19:10",
+		"xpathText:" : "minami 10/13/2014 19:14",
+		"xpathText:ifNone:" : "minami 10/13/2014 22:18" } }

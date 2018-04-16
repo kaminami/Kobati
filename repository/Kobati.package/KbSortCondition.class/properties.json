@@ -1,0 +1,16 @@
+{
+	"category" : "Kobati-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sortKey",
+		"isAsc",
+		"isNullsFirst" ],
+	"name" : "KbSortCondition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

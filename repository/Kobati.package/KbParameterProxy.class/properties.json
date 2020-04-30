@@ -1,14 +1,13 @@
 {
-	"category" : "Kobati-Mapping",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"params" ],
-	"name" : "KbParameterProxy",
-	"pools" : [
-		 ],
 	"super" : "ProtoObject",
-	"type" : "normal" }
+	"category" : "Kobati-Mapping",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"params"
+	],
+	"name" : "KbParameterProxy",
+	"type" : "normal"
+}

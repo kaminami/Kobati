@@ -1,7 +1,10 @@
 {
-	"class" : {
-		"to:" : "minami 10/15/2014 01:23" },
 	"instance" : {
+		"referenceId:" : "minami 10/15/2014 01:22",
 		"isReference" : "minami 10/15/2014 01:22",
-		"referenceId" : "minami 10/15/2014 01:22",
-		"referenceId:" : "minami 10/15/2014 01:22" } }
+		"referenceId" : "minami 10/15/2014 01:22"
+	},
+	"class" : {
+		"to:" : "minami 10/15/2014 01:23"
+	}
+}

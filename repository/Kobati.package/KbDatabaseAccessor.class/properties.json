@@ -1,17 +1,16 @@
 {
-	"category" : "Kobati-Database",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Kobati-Database",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"config",
 		"mappers",
 		"connectionGuard",
-		"isInTransaction" ],
+		"isInTransaction"
+	],
 	"name" : "KbDatabaseAccessor",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

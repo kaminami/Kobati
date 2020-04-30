@@ -1,14 +1,11 @@
 {
-	"category" : "Kobati-Mapping-XML",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "KbDelete",
-	"pools" : [
-		 ],
 	"super" : "KbStatement",
-	"type" : "normal" }
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KbDelete",
+	"type" : "normal"
+}

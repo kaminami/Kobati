@@ -1,14 +1,13 @@
 {
-	"category" : "Kobati-Mapping-XML",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"referenceId" ],
-	"name" : "KbResultMapReference",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"referenceId"
+	],
+	"name" : "KbResultMapReference",
+	"type" : "normal"
+}

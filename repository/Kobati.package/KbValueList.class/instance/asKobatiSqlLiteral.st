@@ -8,7 +8,7 @@ asKobatiSqlLiteral
 					| val |
 					val := each isNumber 
 						ifTrue: [ each asString ]
-						ifFalse: [ '''{1}''' format: { each asString }  ].
+						ifFalse: [ each asString asKobatiSqlLiteral  ].
 					stream nextPutAll: val ]
 				separatedBy: [ stream nextPutAll: ', ' ].
 			stream nextPutAll: ')' ]

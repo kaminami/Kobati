@@ -6,11 +6,11 @@ baseline: spec
 		do: [ 
 			spec package: 'PostgresV3-Core' with: [
 				spec 
-					repository: 'http://www.squeaksource.com/PostgresV3' ].
+					repository: 'http://smalltalkhub.com/mc/emaringolo/PostgresV3/main' ].
 
 			spec package: 'PostgresV3-Pool' with: [
 				spec 
-					repository: 'http://www.squeaksource.com/PostgresV3' ].
+					repository: 'http://smalltalkhub.com/mc/emaringolo/PostgresV3/main' ].
 
 			spec
 				project: 'XPath'

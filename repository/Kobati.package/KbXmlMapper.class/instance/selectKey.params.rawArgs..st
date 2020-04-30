@@ -1,10 +1,10 @@
 query-select
-selectKey: aStatement rawArgs: rawArgs
+selectKey: aStatement params: params rawArgs: rawArgs
 
 	| res rawResults key |
 
-	self session prepare: aStatement statement.
-	self session bindInput: #().
+	self session prepare: aStatement flagments.
+	self session bindInput: params.
 	self session execute.
 
 	res := self session response.

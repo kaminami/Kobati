@@ -1,14 +1,11 @@
 {
-	"category" : "Kobati-Mapping-XML",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "KbResultRow",
-	"pools" : [
-		 ],
 	"super" : "KbPrimitiveRow",
-	"type" : "normal" }
+	"category" : "Kobati-Mapping-XML",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KbResultRow",
+	"type" : "normal"
+}

@@ -6,6 +6,8 @@ executeById: queryId withArguments: args
 					at: queryId asString 
 					ifAbsent: [^self error: 'No such statement'].
 
+	self debugLog: queryId tag: #query.
+
 	params := self 
 					parameterProxyFrom: args 
 					statement: aStatement.

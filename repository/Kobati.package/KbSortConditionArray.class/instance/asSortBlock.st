@@ -11,4 +11,4 @@ asSortBlock
 
 	blockString :=  blockString copyReplaceAll: '%NEXT%' with: leaf asPartialLeafSortBlockString.
 
-	^ Compiler evaluate: blockString
+	^ Smalltalk compiler evaluate: blockString

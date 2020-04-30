@@ -1,19 +1,22 @@
 {
-	"class" : {
-		"sortKey:isAsc:" : "kaminami 12/22/2017 17:51" },
 	"instance" : {
-		"=" : "kaminami 12/22/2017 17:51",
-		"asOrderByBlockString" : "kaminami 12/22/2017 17:51",
-		"asPartialCompositeSortBlockString" : "kaminami 12/22/2017 17:51",
-		"asPartialLeafSortBlockString" : "kaminami 12/22/2017 17:51",
-		"hash" : "kaminami 12/22/2017 17:51",
-		"isAsc" : "kaminami 12/22/2017 17:51",
 		"isAsc:" : "kaminami 12/22/2017 17:51",
-		"isDesc" : "kaminami 12/22/2017 17:51",
-		"isNullsFirst" : "kaminami 12/22/2017 17:51",
-		"isNullsFirst:" : "kaminami 12/22/2017 17:51",
-		"printOn:" : "kaminami 12/22/2017 17:51",
 		"sortKey" : "kaminami 12/22/2017 17:51",
+		"isAsc" : "kaminami 12/22/2017 17:51",
+		"isDesc" : "kaminami 12/22/2017 17:51",
+		"sortSelector" : "kaminami 12/22/2017 17:51",
+		"=" : "kaminami 12/22/2017 17:51",
+		"asPartialCompositeSortBlockString" : "kaminami 12/22/2017 17:51",
+		"isNullsFirst" : "kaminami 12/22/2017 17:51",
+		"printOn:" : "kaminami 12/22/2017 17:51",
+		"asPartialLeafSortBlockString" : "kaminami 12/22/2017 17:51",
+		"asOrderByBlockString" : "kaminami 12/22/2017 17:51",
+		"hash" : "kaminami 12/22/2017 17:51",
 		"sortKey:" : "kaminami 12/22/2017 17:51",
 		"sortOrder" : "kaminami 12/22/2017 17:51",
-		"sortSelector" : "kaminami 12/22/2017 17:51" } }
+		"isNullsFirst:" : "kaminami 12/22/2017 17:51"
+	},
+	"class" : {
+		"sortKey:isAsc:" : "kaminami 12/22/2017 17:51"
+	}
+}

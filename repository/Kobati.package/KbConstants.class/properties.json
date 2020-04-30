@@ -1,17 +1,18 @@
 {
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "Kobati-Database",
 	"classinstvars" : [
-		"default" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
+		"default"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"placeholderPrefix",
 		"placeholderSuffix",
 		"rawPlaceholderPrefix",
-		"rawPlaceholderSuffix" ],
+		"rawPlaceholderSuffix"
+	],
 	"name" : "KbConstants",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

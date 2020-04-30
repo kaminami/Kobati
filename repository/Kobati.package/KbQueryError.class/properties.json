@@ -1,14 +1,13 @@
 {
-	"category" : "Kobati-Database",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"response" ],
-	"name" : "KbQueryError",
-	"pools" : [
-		 ],
 	"super" : "KbError",
-	"type" : "normal" }
+	"category" : "Kobati-Database",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"response"
+	],
+	"name" : "KbQueryError",
+	"type" : "normal"
+}

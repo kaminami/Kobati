@@ -1,14 +1,13 @@
 {
-	"category" : "Kobati-Mapping",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"session" ],
-	"name" : "KbDataMapper",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Kobati-Mapping",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session"
+	],
+	"name" : "KbDataMapper",
+	"type" : "normal"
+}

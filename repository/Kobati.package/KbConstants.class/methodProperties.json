@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"default" : "kaminami 3/9/2017 16:40",
-		"initialize" : "kaminami 3/9/2017 16:41" },
 	"instance" : {
-		"placeholderPrefix" : "kaminami 4/14/2017 11:50",
 		"placeholderPrefix:" : "kaminami 3/9/2017 16:39",
-		"placeholderSuffix" : "kaminami 3/9/2017 16:42",
 		"placeholderSuffix:" : "kaminami 3/9/2017 16:39",
+		"placeholderSuffix" : "kaminami 3/9/2017 16:42",
+		"rawPlaceholderSuffix" : "kaminami 3/31/2017 18:57",
+		"placeholderPrefix" : "kaminami 4/14/2017 11:50",
 		"rawPlaceholderPrefix" : "kaminami 4/14/2017 11:50",
 		"rawPlaceholderPrefix:" : "kaminami 3/31/2017 18:53",
-		"rawPlaceholderSuffix" : "kaminami 3/31/2017 18:57",
-		"rawPlaceholderSuffix:" : "kaminami 3/31/2017 18:57" } }
+		"rawPlaceholderSuffix:" : "kaminami 3/31/2017 18:57"
+	},
+	"class" : {
+		"initialize" : "kaminami 3/9/2017 16:41",
+		"default" : "kaminami 3/9/2017 16:40"
+	}
+}

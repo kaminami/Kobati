@@ -1,3 +1,3 @@
 converting
 asOrderByBlocks
-	^ self conditions collect: [ :e | Compiler evaluate: e asOrderByBlockString ]
+	^ self conditions collect: [ :e | Smalltalk compiler evaluate: e asOrderByBlockString ]

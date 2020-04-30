@@ -1,10 +1,10 @@
 {
-	"category" : "Kobati-Database",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Kobati-Database",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"connection",
 		"sqlFlagments",
@@ -12,9 +12,8 @@
 		"query",
 		"answer",
 		"response",
-		"dbAccessor" ],
+		"dbAccessor"
+	],
 	"name" : "KbSession",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

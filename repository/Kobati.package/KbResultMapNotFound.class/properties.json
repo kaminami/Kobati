@@ -1,14 +1,11 @@
 {
-	"category" : "Kobati-Mapping",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "KbResultMapNotFound",
-	"pools" : [
-		 ],
 	"super" : "KbError",
-	"type" : "normal" }
+	"category" : "Kobati-Mapping",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KbResultMapNotFound",
+	"type" : "normal"
+}

@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"queryType" : "minami 10/15/2014 01:15" } }
+		"queryType" : "minami 10/15/2014 01:15"
+	},
+	"class" : { }
+}

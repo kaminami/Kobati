@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"config" : "minami 10/20/2014 03:52",
-		"config:" : "minami 10/20/2014 03:53",
-		"default" : "kaminami 6/15/2017 14:45",
-		"defaultConnectionArguments" : "minami 10/20/2014 03:40",
-		"defaultPoolArguments" : "kaminami 6/15/2017 14:48",
-		"initialize" : "kaminami 6/15/2017 14:47",
-		"reset" : "kaminami 6/15/2017 14:43" },
 	"instance" : {
+		"withConnectionDo:" : "minami 10/20/2014 04:10",
 		"poolArguments" : "MasashiUmezawa 6/14/2017 17:07",
-		"poolArguments:" : "MasashiUmezawa 6/14/2017 17:08",
-		"withConnectionDo:" : "minami 10/20/2014 04:10" } }
+		"poolArguments:" : "MasashiUmezawa 6/14/2017 17:08"
+	},
+	"class" : {
+		"defaultPoolArguments" : "kaminami 6/15/2017 14:48",
+		"default" : "kaminami 6/15/2017 14:45",
+		"initialize" : "kaminami 6/15/2017 14:47",
+		"defaultConnectionArguments" : "minami 10/20/2014 03:40",
+		"reset" : "kaminami 6/15/2017 14:43",
+		"config:" : "minami 10/20/2014 03:53",
+		"config" : "minami 10/20/2014 03:52"
+	}
+}

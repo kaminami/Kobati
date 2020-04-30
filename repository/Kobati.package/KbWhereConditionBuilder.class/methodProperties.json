@@ -1,20 +1,23 @@
 {
-	"class" : {
-		"all" : "kaminami 12/22/2017 17:43",
-		"example01" : "kaminami 12/22/2017 17:42" },
 	"instance" : {
-		"asSqlString" : "kaminami 12/22/2017 17:41",
-		"expressions" : "kaminami 12/22/2017 17:41",
-		"expressions:" : "kaminami 12/22/2017 17:41",
-		"where:" : "kaminami 12/22/2017 17:41",
-		"where:equals:" : "kaminami 12/22/2017 17:41",
 		"where:ilike:" : "kaminami 12/22/2017 17:41",
-		"where:in:" : "kaminami 12/22/2017 17:41",
-		"where:like:" : "kaminami 12/22/2017 17:41",
-		"where:notEquals:" : "kaminami 12/22/2017 17:41",
-		"where:notIlike:" : "kaminami 12/22/2017 17:41",
-		"where:notIn:" : "kaminami 12/22/2017 17:41",
+		"where:equals:" : "kaminami 12/22/2017 17:41",
+		"whereIsNotNull:" : "kaminami 12/22/2017 17:41",
 		"where:notLike:" : "kaminami 12/22/2017 17:41",
 		"where:operator:value:" : "kaminami 12/22/2017 17:41",
-		"whereIsNotNull:" : "kaminami 12/22/2017 17:41",
-		"whereIsNull:" : "kaminami 12/22/2017 17:41" } }
+		"where:like:" : "kaminami 12/22/2017 17:41",
+		"whereIsNull:" : "kaminami 12/22/2017 17:41",
+		"where:notIlike:" : "kaminami 12/22/2017 17:41",
+		"where:notEquals:" : "kaminami 12/22/2017 17:41",
+		"expressions:" : "kaminami 12/22/2017 17:41",
+		"expressions" : "kaminami 12/22/2017 17:41",
+		"where:" : "kaminami 12/22/2017 17:41",
+		"asSqlString" : "kaminami 12/22/2017 17:41",
+		"where:in:" : "kaminami 12/22/2017 17:41",
+		"where:notIn:" : "kaminami 12/22/2017 17:41"
+	},
+	"class" : {
+		"all" : "kaminami 12/22/2017 17:43",
+		"example01" : "kaminami 12/22/2017 17:42"
+	}
+}

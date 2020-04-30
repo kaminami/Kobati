@@ -1,12 +1,12 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"hasKeyProperty" : "kaminami 3/23/2017 11:33",
 		"keyProperty" : "minami 10/15/2014 01:18",
-		"keyProperty:" : "minami 10/15/2014 01:18",
-		"order" : "minami 10/15/2014 01:18",
+		"statementForPrepare" : "minami 10/15/2014 01:18",
+		"hasKeyProperty" : "kaminami 3/23/2017 11:33",
+		"queryType" : "kaminami 7/11/2019 17:23",
 		"order:" : "minami 10/15/2014 01:18",
-		"statement" : "minami 10/15/2014 01:18",
-		"statement:" : "minami 10/15/2014 01:18",
-		"statementForPrepare" : "minami 10/15/2014 01:18" } }
+		"order" : "minami 10/15/2014 01:18",
+		"keyProperty:" : "minami 10/15/2014 01:18"
+	},
+	"class" : { }
+}

@@ -1,9 +1,12 @@
 {
+	"instance" : {
+		"collection:" : "minami 12/5/2014 09:46",
+		"asInValueList" : "minami 12/5/2014 09:55",
+		"asKobatiSqlLiteral" : "kaminami 5/22/2019 17:24",
+		"collection" : "minami 12/5/2014 09:46"
+	},
 	"class" : {
 		"with:" : "minami 12/5/2014 09:45",
-		"withAll:" : "minami 12/5/2014 09:46" },
-	"instance" : {
-		"asInValueList" : "minami 12/5/2014 09:55",
-		"asKobatiSqlLiteral" : "minami 5/15/2017 18:41",
-		"collection" : "minami 12/5/2014 09:46",
-		"collection:" : "minami 12/5/2014 09:46" } }
+		"withAll:" : "minami 12/5/2014 09:46"
+	}
+}

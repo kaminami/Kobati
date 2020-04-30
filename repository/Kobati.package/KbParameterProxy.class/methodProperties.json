@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"on:" : "minami 10/19/2014 21:24" },
 	"instance" : {
-		"doesNotUnderstand:" : "minami 10/14/2014 23:15",
 		"handleMessage:" : "minami 10/20/2014 17:27",
-		"isKindOf:" : "minami 10/20/2014 12:06",
+		"doesNotUnderstand:" : "minami 10/14/2014 23:15",
+		"perform:" : "minami 10/14/2014 23:16",
 		"params:" : "minami 10/14/2014 23:14",
-		"perform:" : "minami 10/14/2014 23:16" } }
+		"isKindOf:" : "minami 10/20/2014 12:06"
+	},
+	"class" : {
+		"on:" : "minami 10/19/2014 21:24"
+	}
+}

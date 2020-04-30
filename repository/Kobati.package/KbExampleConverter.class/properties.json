@@ -1,14 +1,11 @@
 {
-	"category" : "Kobati-Example",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "KbExampleConverter",
-	"pools" : [
-		 ],
 	"super" : "KbConverter",
-	"type" : "normal" }
+	"category" : "Kobati-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KbExampleConverter",
+	"type" : "normal"
+}

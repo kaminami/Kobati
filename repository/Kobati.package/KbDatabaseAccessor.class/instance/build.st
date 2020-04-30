@@ -13,7 +13,7 @@ build
 	self config evalMappers 
 		do: [:each |
 			| newMapper storedMapper |
-			newMapper := KbXmlMapper from: (Compiler evaluate: each).
+			newMapper := KbXmlMapper from: (Smalltalk compiler evaluate: each).
 			storedMapper := aDictionary at: newMapper namespace ifAbsentPut: [newMapper].
 			(storedMapper == newMapper) ifFalse: [ storedMapper merge: newMapper ] ].
 

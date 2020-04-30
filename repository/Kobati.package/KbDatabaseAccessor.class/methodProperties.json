@@ -1,16 +1,19 @@
 {
-	"class" : {
-		"for:" : "minami 10/21/2014 00:01" },
 	"instance" : {
-		"build" : "kaminami 3/6/2017 18:40",
-		"config" : "minami 10/13/2014 22:19",
-		"config:" : "minami 10/13/2014 22:19",
+		"mappers:" : "minami 10/13/2014 22:19",
 		"connectionGuard" : "kaminami 6/15/2017 15:26",
 		"connectionGuard:" : "minami 10/13/2014 22:19",
+		"build" : "kaminami 1/8/2020 11:34",
+		"config" : "minami 10/13/2014 22:19",
+		"execute:" : "minami 10/20/2014 04:04",
 		"doExecute:" : "minami 10/20/2014 12:51",
 		"doTransaction:" : "minami 10/20/2014 11:57",
-		"execute:" : "minami 10/20/2014 04:04",
 		"mapperForName:" : "kaminami 6/15/2017 14:11",
 		"mappers" : "minami 10/13/2014 22:19",
-		"mappers:" : "minami 10/13/2014 22:19",
-		"transaction:" : "minami 10/20/2014 04:04" } }
+		"config:" : "minami 10/13/2014 22:19",
+		"transaction:" : "minami 10/20/2014 04:04"
+	},
+	"class" : {
+		"for:" : "minami 10/21/2014 00:01"
+	}
+}

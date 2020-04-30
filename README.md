@@ -3,7 +3,7 @@ A tiny Object-relational mapping(ORM) library inspired by MyBatis
 
 ## Supported Smalltalk Version
 
-Pharo Smalltalk 5.0, 6.0
+Pharo Smalltalk 5, 6, 7
 
 ## Installation
 

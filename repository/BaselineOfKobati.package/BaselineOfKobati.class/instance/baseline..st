@@ -6,18 +6,20 @@ baseline: spec
 		do: [ 
 			spec package: 'PostgresV3-Core' with: [
 				spec 
-					repository: 'http://smalltalkhub.com/mc/emaringolo/PostgresV3/main' ].
+					file: 'PostgresV3-Core-FrancoisStephany.9';
+					repository: 'https://squeaksource.blueplane.jp/AsLegacyLibs' ].
 
 			spec package: 'PostgresV3-Pool' with: [
 				spec 
-					repository: 'http://smalltalkhub.com/mc/emaringolo/PostgresV3/main' ].
+					file: 'PostgresV3-Pool-FrancoisStephany.3';
+					repository: 'https://squeaksource.blueplane.jp/AsLegacyLibs' ].
 
 			spec
 				project: 'XPath'
 				with: [ spec
 						className: 'ConfigurationOfXPath';
 						file: 'ConfigurationOfXPath';
-						repository: 'http://www.smalltalkhub.com/mc/PharoExtras/XPath/main' ].
+						repository: 'github://pharo-contributions/XML-XPath/src' ].
 					
 			spec
 				package: 'Kobati' ].

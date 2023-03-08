@@ -1,9 +1,6 @@
 instance-creation
 load: filename
-
-	| xmlString rs |
-	rs := (FileStream readOnlyFileNamed: filename)
-			converter: UTF8TextConverter new;
-			yourself.
-	xmlString := [rs contents] ensure: [rs close].
+	| file xmlString |
+	file := filename asFileReference.
+	xmlString := file readStreamDo:[:strm | strm contents].
 	^self from: xmlString

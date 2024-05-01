@@ -1,4 +1,4 @@
-baseline
+baselines
 baseline: spec
 	<baseline>
 	spec
@@ -13,13 +13,7 @@ baseline: spec
 				spec 
 					file: 'PostgresV3-Pool-FrancoisStephany.3';
 					repository: 'https://squeaksource.blueplane.jp/AsLegacyLibs' ].
-
 			spec
-				project: 'XPath'
-				with: [ spec
-						className: 'ConfigurationOfXPath';
-						file: 'ConfigurationOfXPath';
-						repository: 'github://pharo-contributions/XML-XPath/src' ].
-					
+ 				baseline: 'XPath' with: [ spec repository: 'github://pharo-contributions/XML-XPath:2.2.0/src' ].					
 			spec
 				package: 'Kobati' ].

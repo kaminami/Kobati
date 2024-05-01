@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfKobati!
+self packageOrganizer ensurePackage: #BaselineOfKobati withTags: #()!
